@@ -1,0 +1,23 @@
+{
+	"auto_close_tags": false,
+	"auto_complete": false,
+	"color_scheme": "Packages/User/Monokai Brighter.tmTheme",
+	"enable_tab_scrolling": false,
+	"font_size": 10,
+	"rulers":
+	[
+		80,
+		100,
+		120
+	],
+	"spell_check": false,
+	"tab_completion": false,
+	"theme": "Monokai_Brighter.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "auto",
+    "highlight_line":true,
+    "match_brackets_angle": true,
+    "highlight_modified_tabs":true,
+    "mouse_wheel_switches_tabs":true,
+    "always_prompt_for_file_reload": true,
+}
