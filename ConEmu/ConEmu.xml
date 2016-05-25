@@ -189,8 +189,8 @@
 			<value name="CTS.RBtnAction" type="hex" data="03"/>
 			<value name="CTS.MBtnAction" type="hex" data="00"/>
 			<value name="CTS.ColorIndex" type="hex" data="e0"/>
-			<value name="ClipboardConfirmEnter" type="hex" data="01"/>
-			<value name="ClipboardConfirmLonger" type="dword" data="000000c8"/>
+			<value name="ClipboardConfirmEnter" type="hex" data="00"/>
+			<value name="ClipboardConfirmLonger" type="dword" data="00000000"/>
 			<value name="FarGotoEditorOpt" type="hex" data="01"/>
 			<value name="FarGotoEditorPath" type="string" data="far.exe /e%1:%2 &quot;%3&quot;"/>
 			<value name="HighlightMouseRow" type="hex" data="00"/>
