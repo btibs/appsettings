@@ -1,0 +1,4 @@
+[
+     { "command": "open_conemu", "caption":"Open ConEmu" },
+     { "command": "open_cmd", "caption":"Open Command Prompt" }
+]
